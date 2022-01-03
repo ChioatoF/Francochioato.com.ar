@@ -1251,13 +1251,19 @@
 
   .u-section-2 .u-text-9 {
     width: auto;
-    margin-top: -523px;
+    margin-top: -515px;
     margin-left: 32px;
     margin-right: 32px;
   }
 
   .u-section-2 .u-text-10 {
-    margin-top: 354px;
+    width: auto;
+    margin-top: 342px;
+  }
+
+  .u-section-2 .u-text-11 {
+    width: auto;
+    margin-top: 195px;
   }
 
   .u-section-2 .u-carousel-control-1 {
